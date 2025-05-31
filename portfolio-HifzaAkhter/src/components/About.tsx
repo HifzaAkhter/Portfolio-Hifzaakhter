@@ -151,7 +151,7 @@ const About = () => {
         </div>
 
         {/* Achievements Section */}
-        <div className="bg-blue-500 rounded-xl p-6 text-white">
+        <div className="bg-teal-500 rounded-xl p-6 text-white">
           <h3 className="text-xl font-bold text-center mb-6">
             Key Achievements
           </h3>
