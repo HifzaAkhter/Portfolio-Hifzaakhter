@@ -94,8 +94,8 @@ const Hero = () => {
           </Button>
 
           <a
-            href="/Resumee.pdf"
-            download="Resumee.pdf"
+            href="/Resume1.pdf"
+            download="Resume1.pdf"
             className="relative inline-flex items-center px-8 py-3 text-sm font-semibold text-gold-400 border-2 border-gold-400 hover:bg-gold-400 hover:text-white rounded-md transition-all duration-300 group overflow-hidden"
           >
             <span className="absolute inset-0 bg-gold-400 opacity-0 group-hover:opacity-20 transition-opacity duration-300" />

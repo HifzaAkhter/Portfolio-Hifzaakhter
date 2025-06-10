@@ -12,8 +12,8 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "hifxaakhter@example.com",
-      link: "mailto:hifxaakhter@example.com",
+      value: "hifxaakhter@gmail.com",
+      link: "mailto:hifxaakhter@gmail.com",
     },
     {
       icon: Github,
