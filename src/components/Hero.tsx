@@ -60,7 +60,7 @@ const Hero = () => {
           </div>
 
           <h2 className="text-xl md:text-2xl text-teal-800 mb-4 font-medium tracking-wide">
-            Full Stack Web Developer 
+            Full Stack Developer 
           </h2>
 
           <p className="text-lg text-gray-700 max-w-3xl mx-auto leading-relaxed tracking-wide">
